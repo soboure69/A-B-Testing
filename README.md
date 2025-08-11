@@ -1,6 +1,6 @@
 # A-B-Testing
 Appliquer l'A/B testing dans le secteur du marketing
-
+![alt text](ab_testing_results.png)
 ## Contexte
 L’A/B testing est une méthode utilisée pour comparer deux versions d'un produit ou d'un service afin de déterminer laquelle est la plus performante. Ce projet est très populaire dans le marketing, les produits digitaux et l’e-commerce pour optimiser des campagnes ou des fonctionnalités.
 
